@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Autofac.Events.Tests.Handlers;
+﻿using Autofac.Events.Tests.Handlers;
 using Xunit;
 
 namespace Autofac.Events.Tests
